@@ -159,13 +159,13 @@
             <mxPoint x="-443.75" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOikYUgFHC0tqwCAxVPN-117" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="根据主叫或被叫号码寻址对应省彩铃AS" vertex="1">
+        <mxCell id="VOikYUgFHC0tqwCAxVPN-117" parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" value="根据主叫或被叫号码寻址对应省彩铃AS" vertex="1">
           <mxGeometry height="48" width="295" x="487" y="239" as="geometry" />
         </mxCell>
-        <mxCell id="VOikYUgFHC0tqwCAxVPN-118" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="保存呼叫事件数据&#xa;匹配该时间段彩铃播放" vertex="1">
+        <mxCell id="VOikYUgFHC0tqwCAxVPN-118" parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" value="保存呼叫事件数据&#xa;匹配该时间段彩铃播放" vertex="1">
           <mxGeometry height="48" width="325" x="1132" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="VOikYUgFHC0tqwCAxVPN-119" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="执行彩铃切换动作" vertex="1">
+        <mxCell id="VOikYUgFHC0tqwCAxVPN-119" parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" value="执行彩铃切换动作" vertex="1">
           <mxGeometry height="48" width="150" x="1219" y="901" as="geometry" />
         </mxCell>
       </root>

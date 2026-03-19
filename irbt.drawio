@@ -122,8 +122,9 @@
             <mxPoint x="-337.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOikYUgFHC0tqwCAxVPN-111" edge="1" parent="1" source="VOikYUgFHC0tqwCAxVPN-90" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="VOikYUgFHC0tqwCAxVPN-89" value="8. 切换请求受理响应&#xa;resultCode, resultDesc">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="VOikYUgFHC0tqwCAxVPN-111" edge="1" parent="1" source="VOikYUgFHC0tqwCAxVPN-90" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="VOikYUgFHC0tqwCAxVPN-89" value="8. 切换请求受理响应">
+          <mxGeometry relative="1" x="-0.0006" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="976" y="881" />
             </Array>
